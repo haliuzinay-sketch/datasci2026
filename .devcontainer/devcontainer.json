@@ -1,7 +1,7 @@
 {
   "name": "Data 8 & Otter-Grader Environment",
   // Використовуємо офіційний, оптимізований образ від Microsoft із попередньо встановленим Python 3
-  "image": "://microsoft.com",
+  "image": "mcr.microsoft.com/devcontainers/python",
 
   "customizations": {
     "vscode": {
